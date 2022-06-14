@@ -19,9 +19,7 @@ h2{
 #idSegundo{
     font-size: 20px;
 }
-@media (orientation: landscape) and (min-width: 500px){
-  
-    h2{
-    color:red;
+.centrar{
+    text-align: center;
 }
-}
+
