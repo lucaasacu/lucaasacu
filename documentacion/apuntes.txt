@@ -1,0 +1,13 @@
+Entidades
+
+Alumnos
+Cursos
+Profesores
+Tipos de cursos
+
+
+Relaciones
+
+Cursos - Profesores
+Cursos - Alumnos
+Cursos - Tipos de cursos
