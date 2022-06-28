@@ -5,7 +5,7 @@ $numTres = 9;
 $numCuatro = 4;
 $textUno = "4";
 
-echo("<h2>Operadores Comparacion</h2>");
+echo("<h1>Operadores Comparacion</h1>");
 
     $resultado = $numUno == $numDos;
     var_dump($resultado);
@@ -51,3 +51,11 @@ var_dump($resultado);
 
 
 ?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Operadores Comparacion</title>
+    </head>
+    <body>
+    </body>
+</html>
