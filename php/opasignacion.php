@@ -1,13 +1,16 @@
 <?php
 echo("<h1>Operadores Asignacion</h1>");
 
+echo("<p><b>numero =</b> </p>");
 $numero = 7;
 print_r($numero);
+echo("<p><b>numero + 2 = </b> </p>");
 $numero += 2;
-echo("|");
+echo("<br>");
 print_r($numero);
+echo("<p><b>(numero + 2) - 4 = </b> </p>");
 $numero -= 4;
-echo("|");
+echo("<br>");
 print_r($numero);
 
 echo("<hr>");

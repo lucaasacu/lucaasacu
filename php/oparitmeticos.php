@@ -62,7 +62,7 @@
     echo("<p><b> (numTres + numDos)/2 ((6+4)/2)</b></p>");
         $resultado =($numTres+$numDos)/2;
         print_r($resultado);
-        echo("<p><b> numTres + numDos/2 (6+4/2)</b></p>");
+        echo("<p><b> numDos + numTres/2 (4+6/2)</b></p>");
         $resultado =$numDos+$numTres/2;
         print_r($resultado);
 
