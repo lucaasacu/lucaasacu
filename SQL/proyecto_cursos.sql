@@ -1,4 +1,4 @@
-
+CREATE DATABASE cursolucas;
 USE cursolucas; 
 SHOW tables; 
 

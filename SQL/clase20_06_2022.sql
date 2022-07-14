@@ -1,6 +1,6 @@
 -- Clase 2022-06-20
 
-DROP DATABASES curso_2014;
+use cursolucas;
 
 SHOW TABLES;
 
@@ -66,7 +66,7 @@ INSERT INTO alumnos SET
 	tipoDocumento = "CI";
 
 INSERT INTO alumnos SET
-	documento 	= 6559,
+	documento 	= 653485559,
 	nombre 		= "Fabian",
 	apellido 	= "Maldonado",
 	fechaNacimiento = "2013-03-10",
