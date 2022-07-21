@@ -15,6 +15,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 		<style>
+		
 			body {
 				display: flex;
 			    min-height: 100vh;
@@ -88,7 +89,10 @@
 		<script>			
 			document.addEventListener('DOMContentLoaded', function() {
 				M.AutoInit();
+				var elems = document.querySelectorAll('.datepicker');
+    			var instances = M.Datepicker.init(elems, options);
 			});
 		</script>
+	</body>
 	</body>
 </html>
